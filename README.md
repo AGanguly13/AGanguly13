@@ -6,4 +6,4 @@
 
 📸  - In my free time, you can find me reading, playing tennis, volleyball, and soccer, or taking photos!
 
-Feel free to reach out to ganguly.adwait@gmail.com or on [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/adwaitganguly/)) with any questions, opportunities, or collaborations!
+Feel free to reach out to ganguly.adwait@gmail.com or on [![Linkedin Badge](https://img.shields.io/badge/-Adwait-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/adwaitganguly/)) with any questions, opportunities, or collaborations!
