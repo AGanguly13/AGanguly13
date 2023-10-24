@@ -1,4 +1,4 @@
-👋  - Hi! My name is Adwait Ganguly, and I am a junior studying Computer Science at Northwestern University.
+### 👋  - Hi! My name is Adwait Ganguly, and I am a junior studying Computer Science at Northwestern University.
 
 👨‍💻  - My career interests are focused on Software/ML Engineering + Robotics, but in the long run, I look forward to building my own company. 
 
