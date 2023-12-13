@@ -8,7 +8,7 @@
 
 Feel free to reach out to ganguly.adwait@gmail.com or on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Adwait-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/adwaitganguly/)) with any questions, opportunities, or collaborations!
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
